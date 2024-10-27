@@ -1,0 +1,4 @@
+node_modules/
+aws-device-connect-kit/
+src/config.ts
+*.csv
